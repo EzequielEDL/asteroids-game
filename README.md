@@ -7,7 +7,7 @@
 
 ## Description
 
-This is one of my first little code projects when i learned to programming, (yes, the code is bs haha), but well i want to sahre one of my nostalgic code.
+This is one of my first little code projects when i learned to programming, (yes, the code is bs haha), but well i want to share one of my nostalgic code.
 
 ## Built With
 
