@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1623659648 source:c:\users\eze\desktop\asteroids-game\main.cpp
+	"index.h"
+	<windows.h>
+	<stdio.h>
+
+1623637219 source:c:\users\eze\desktop\asteroids-game\src\color.cpp
+	<iostream>
+	<string>
+	<windows.h>
+
+1623637171 c:\users\eze\desktop\asteroids-game\include\index.h
+
+1623659824 source:c:\users\eze\desktop\asteroids-game\src\index.cpp
+	"nave.h"
+	"asteroid.h"
+	"star.h"
+	"color.h"
+	"util.h"
+	"screen.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<winUser.h>
+	<MMSystem.h>
+	<conio.h>
+
+1623636923 c:\users\eze\desktop\asteroids-game\include\color.h
+
+1623638263 source:c:\users\eze\desktop\asteroids-game\src\models.cpp
+
+1623658875 source:c:\users\eze\desktop\asteroids-game\src\screen.cpp
+	<windows.h>
+	"color.h"
+	<stdio.h>
+
+1623659947 source:c:\users\eze\desktop\asteroids-game\src\nave.cpp
+	"nave.h"
+	"screen.h"
+	"color.h"
+	<windows.h>
+	<conio.h>
+
+1623657015 c:\users\eze\desktop\asteroids-game\include\nave.h
+	<string>
+
+1623654011 c:\users\eze\desktop\asteroids-game\include\screen.h
+
+1623658402 source:c:\users\eze\desktop\asteroids-game\src\asteroid.cpp
+	"asteroid.h"
+	"nave.h"
+	"color.h"
+	"screen.h"
+	<windows.h>
+	<conio.h>
+
+1623657240 c:\users\eze\desktop\asteroids-game\include\asteroid.h
+	<string>
+	"nave.h"
+
+1623658337 source:c:\users\eze\desktop\asteroids-game\src\star.cpp
+	"star.h"
+	"color.h"
+	"screen.h"
+	<windows.h>
+	<conio.h>
+
+1623657192 c:\users\eze\desktop\asteroids-game\include\star.h
+	<string>
+	"nave.h"
+
+1623660378 source:c:\users\eze\desktop\asteroids-game\src\util.cpp
+	<windows.h>
+	<MMSystem.h>
+	"color.h"
+	"screen.h"
+	<stdio.h>
+	<stdio.h>
+	<conio.h>
+	<Mmsystem.h>
+
+1623654320 c:\users\eze\desktop\asteroids-game\include\util.h
+
